@@ -1,0 +1,6 @@
+fastapi[all]
+PyPDF2
+pytesseract
+pillow
+ocrmypdf
+python-multipart
